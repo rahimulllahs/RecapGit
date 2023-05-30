@@ -11,5 +11,12 @@ public class RecapGitPractice {
 		
 		System.out.println("This is recap of git branching");
 	}
+	
+	
+	public void thisIsRecapPractice() {
+		
+		
+		System.out.println("This time should push to remote repo");
+	}
 
 }
