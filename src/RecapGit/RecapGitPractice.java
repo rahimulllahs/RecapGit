@@ -7,5 +7,9 @@ public class RecapGitPractice {
 
 
 	}
+	public void iCanLearnGit() {
+		
+		System.out.println("This is recap of git branching");
+	}
 
 }
