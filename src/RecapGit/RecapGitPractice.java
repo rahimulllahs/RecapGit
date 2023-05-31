@@ -18,5 +18,10 @@ public class RecapGitPractice {
 		
 		System.out.println("This time should push to remote repo");
 	}
+	public void test() {
+		
+		
+		System.out.println("This is a peace of cake");
+	}
 
 }
